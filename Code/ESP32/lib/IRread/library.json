@@ -1,0 +1,16 @@
+{
+  "name": "MotorDriver",
+  "version": "1.0.0",
+  "description": "A simple motor driver library for ESP32",
+  "keywords": ["motor", "driver", "esp32", "pwm"],
+  "authors": {
+    "name": "NQB26",
+    "email": "nguyenblexd3911@example.com",
+    "url": "https://github.com/yourusername/MotorDriver"
+  },
+  "license": "MIT",
+  "frameworks": "arduino",
+  "platforms": "*",
+  "examples": [
+  ]
+}
